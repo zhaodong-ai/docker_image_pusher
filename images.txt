@@ -7,3 +7,5 @@ alibabadragonwell/dragonwell:17-anolis
 alibabadragonwell/dragonwell:21-anolis
 node:18
 node:20
+golang:1.XX-alpine
+nginx:latest
