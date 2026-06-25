@@ -1,1 +1,1 @@
-gpustack/gpusta
+gpustack/gpusta:latest
