@@ -1,14 +1,1 @@
-python:3.12.0
-python:3.11.1
-python:3.10.12
-python:3.9.18
-alibabadragonwell/dragonwell:8-anolis
-alibabadragonwell/dragonwell:17-anolis
-alibabadragonwell/dragonwell:21-anolis
-node:18
-node:20
-golang:1.21-alpine
-golang:1.22-alpine
-golang:1.23-alpine
-alpine:latest
-nginx:latest
+gpustack/gpusta
